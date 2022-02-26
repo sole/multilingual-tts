@@ -1,6 +1,6 @@
 # Multilingual Text To Speech in one MP3
 
-This is a demonstration project of how to use mac OS's `say` plus sox to create an mp3 file that contains the spoken text from several files in various languages.
+This is a demonstration project of how to use mac OS's `say` plus [sox](http://sox.sourceforge.net/sox.html) to create an mp3 file that contains the spoken text from several files in various languages.
 
 ```bash
 bash install.sh
